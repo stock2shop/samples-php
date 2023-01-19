@@ -2,3 +2,4 @@ app/vendor
 .idea
 app/rr
 app/rr.exe
+temporal-test-server
